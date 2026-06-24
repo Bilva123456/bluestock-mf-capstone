@@ -1,5 +1,5 @@
-echo "*.db
+*.db
 *.db-shm
 *.db-wal
 __pycache__/
-.DS_Store" > .gitignore
+.DS_Store
